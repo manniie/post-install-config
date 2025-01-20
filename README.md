@@ -17,11 +17,12 @@ This section outlines the post-install configuration of the open-source help des
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Make Registration Required To Make Tickets
+- Configure Agents (Workers)
+- 
 
 <h2>Configuration Steps</h2>
 
@@ -30,22 +31,20 @@ This section outlines the post-install configuration of the open-source help des
 ![image](https://github.com/user-attachments/assets/be2f473c-0526-4231-8c9b-a0b74f016f62)
 
 <p>
-A Supreme Admin role created with all permissions
+A Supreme Admin role created with all permissions.
 </p>
 <hr>
+<h3>Configure Departments For System Admins</h3>
+
+![image](https://github.com/user-attachments/assets/f94602f8-28c1-46d8-a57e-53aeff0569ca)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured a department called System Admins so agents can be assigned to this department.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<hr>
+<h3>Configured Teams Called Online Banking</h3>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/88b1c41e-9a7c-4375-ba45-5ea06062c2db)
+
+<p>Configured a team called Online Banking so that you can organize a group of people from different departments.</p>
+<hr>
