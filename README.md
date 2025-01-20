@@ -48,3 +48,15 @@ Configured a department called System Admins so agents can be assigned to this d
 
 <p>Configured a team called Online Banking so that you can organize a group of people from different departments.</p>
 <hr>
+<h3>Require Registration For Creating Tickets</h3>
+
+![image](https://github.com/user-attachments/assets/17aa31de-0c11-4a32-9494-08d1db4bce87)
+
+<p>Configured osTickets to require registration and login to create tickets</p>
+<hr>
+<h3>Configured Agents Named John & Jane Doe</h3>
+
+![image](https://github.com/user-attachments/assets/419324dd-7f40-4643-b84b-042c15e1a4ba)
+
+<p>Created two agents named John & Jane Doe and added to System Admins department.</p>
+<hr>
