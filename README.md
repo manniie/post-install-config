@@ -22,7 +22,9 @@ This section outlines the post-install configuration of the open-source help des
 - Configure Teams
 - Make Registration Required To Make Tickets
 - Configure Agents (Workers)
-- 
+- Confgiure Users (Customers)
+- Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -59,4 +61,22 @@ Configured a department called System Admins so agents can be assigned to this d
 ![image](https://github.com/user-attachments/assets/419324dd-7f40-4643-b84b-042c15e1a4ba)
 
 <p>Created two agents named John & Jane Doe and added to System Admins department.</p>
+<hr>
+<h3>Configured Users Karen & Ken Doe</h3>
+
+![image](https://github.com/user-attachments/assets/00c9abd5-4040-4e1c-bf46-b3b4afab6bac)
+
+<p>Created the users Karen and Ken so they can create tickets.</p>
+<hr>
+<h3>Configured SLA Rules</h3>
+
+![image](https://github.com/user-attachments/assets/f1e569fb-e043-4705-a925-265ebe79b590)
+
+<p>Configured the SLA to have Sev-A [Grace Period - 1 Hour, Schedule - 24/7] Sev-B [Grace Period - 4 Hours, Schedule - 24/7] and Sev-C [Grace Period - 8 Hours, Schedule - Business Hours]. </p>
+<hr>
+<h3>Configured Help Topics For When Users Create A Ticket</h3>
+
+![image](https://github.com/user-attachments/assets/7751fa56-5cde-4926-9609-209c226526ea)
+
+<p>Created different help topics that are popular topics for ticket support to answer and categorize each type of ticket.</p>
 <hr>
