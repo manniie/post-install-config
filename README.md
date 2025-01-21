@@ -170,11 +170,35 @@ Make sure to select all permissions in all of the categories then save.</p>
 <hr>
 <h3>Configured SLA Rules</h3>
 
-![image](https://github.com/user-attachments/assets/f1e569fb-e043-4705-a925-265ebe79b590)
+<p>7). Click on Admin Panel and select Manage.</p>
 
-<p>Configured the SLA to have Sev-A [Grace Period - 1 Hour, Schedule - 24/7] Sev-B [Grace Period - 4 Hours, Schedule - 24/7] and Sev-C [Grace Period - 8 Hours, Schedule - Business Hours]. </p>
+![image](https://github.com/user-attachments/assets/2415ae2e-5ff3-44d8-898e-a4568e105078)
+
+<p>Select SLA and select Add New SLA Plan </p>
+
+![image](https://github.com/user-attachments/assets/c0ab2750-e25d-46f6-8aa4-129a680c4b76)
+
+
+<p>Fill out the SLA to have Sev-A [Grace Period - 1 Hour, Schedule - 24/7] Sev-B [Grace Period - 4 Hours, Schedule - 24/7] and Sev-C [Grace Period - 8 Hours, Schedule - Business Hours]. </p>
+
+![image](https://github.com/user-attachments/assets/715d86f7-0125-4671-bf49-e7c3254e8cfc)
+
+![image](https://github.com/user-attachments/assets/6a2bcfdc-d387-4768-a531-51fcd99bde4d)
+
+![image](https://github.com/user-attachments/assets/623595a1-2a10-461f-9de6-1556d94a0c7d)
+
 <hr>
 <h3>Configured Help Topics For When Users Create A Ticket</h3>
+
+<p>8). The final stpe is to configure the help topics to have the common topics for tickets you may resolve. </p>
+
+<p>Click Help Topics under the Manage section. Then add new Help Topic. </p>
+
+![image](https://github.com/user-attachments/assets/35eb0cbf-9982-484a-acd1-5732fcfffb09)
+
+<p>Set the Help Topic to Businesss Critical Outage and Parent Topic to Report A Problem.</p>
+
+![image](https://github.com/user-attachments/assets/d6849c91-5cd3-4e5c-b80e-816fa72efbbb)
 
 ![image](https://github.com/user-attachments/assets/7751fa56-5cde-4926-9609-209c226526ea)
 
