@@ -134,11 +134,37 @@ Make sure to select all permissions in all of the categories then save.</p>
 
 ![image](https://github.com/user-attachments/assets/4367e7bc-d11a-4961-a70b-61070302a27e)
 
-<p>Created two agents named John & Jane Doe and added them to their departments.</p>
+<p>Now add Jane to the SysAdmins Department. Click on Agents and then Jane Doe. Click on Access.</p>
+
+![image](https://github.com/user-attachments/assets/5c33d167-d29b-476c-818c-ff3fb39b9ca5)
+
+<p>Next make her Primary Department SysAdmins and give her Supreme Admin. Then save your changes.p>
+
+![image](https://github.com/user-attachments/assets/def49f93-0882-4e93-9438-9d8616a2148c)
+
+<p>Created two agents named John & Jane Doe and added them to their teams/departments.</p>
 <hr>
 <h3>Configured Users Karen & Ken Doe</h3>
 
-![image](https://github.com/user-attachments/assets/00c9abd5-4040-4e1c-bf46-b3b4afab6bac)
+<p>6). Click on the Agent Panel and then Users</p>
+
+![image](https://github.com/user-attachments/assets/98563d31-4022-40a1-8c23-1ba8c94efa9a)
+
+<p>Click on Add User</p>
+
+![image](https://github.com/user-attachments/assets/04c6b129-a505-4c21-8f65-93322204da96)
+
+<p>Fill out the information for Karen Doe and then click Add User</p>
+
+![image](https://github.com/user-attachments/assets/1851f145-7879-448c-a8e5-886d10b03b5a)
+
+<p>Again click on Add User</p>
+
+![image](https://github.com/user-attachments/assets/04c6b129-a505-4c21-8f65-93322204da96)
+
+<p>Fill out the information for Ken Doe and then click Add User</p>
+
+![image](https://github.com/user-attachments/assets/8756a047-123d-4c97-a356-fa728c9d9e1e)
 
 <p>Created the users Karen and Ken so they can create tickets.</p>
 <hr>
