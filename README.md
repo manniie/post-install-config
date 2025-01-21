@@ -200,7 +200,11 @@ Make sure to select all permissions in all of the categories then save.</p>
 
 ![image](https://github.com/user-attachments/assets/d6849c91-5cd3-4e5c-b80e-816fa72efbbb)
 
+<p>Create Help Topics for the following topics, Access Issue, Equipment Request, Other, Password Reset, and Personal Computer Issues all with the same Parent Topic "Report A Problem".</p>
+
 ![image](https://github.com/user-attachments/assets/7751fa56-5cde-4926-9609-209c226526ea)
 
 <p>Created different help topics that are popular topics for ticket support to answer and categorize each type of ticket.</p>
 <hr>
+
+<p>Congratulations! You have successfully set up osTicket post installation.</p>
